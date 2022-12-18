@@ -1,4 +1,4 @@
-# Poker-Cards-Recognition
+# Poker-Cards-Detection
 This is a repository created for DS301 fall 2022 final project by Larry Liang and Junru Lu. 
 
 ## Project Description 
